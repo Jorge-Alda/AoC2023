@@ -2,4 +2,4 @@
 
 Advent of code 2023
 
-* Day 01: 1/2
+* Day 01: 2/2
