@@ -13,3 +13,4 @@ Advent of code 2023
 * [Day 09](Day09/Day09.ipynb): 2/2
 * [Day 10](Day10/Day10.ipynb): 2/2
 * [Day 11](Day11/Day11.ipynb): 2/2
+* [Day 12](Day12/Day12.ipynb): 1/2
