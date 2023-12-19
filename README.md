@@ -20,3 +20,4 @@ Advent of code 2023
 * [Day 16](Day16/Day16.ipynb): 2/2
 * [Day 17](Day17/Day17.ipynb): 2/2
 * [Day 18](Day18/Day18.ipynb): 2/2
+* [Day 19](Day19/Day19.ipynb): 1/2
